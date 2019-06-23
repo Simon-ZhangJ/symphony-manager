@@ -1,0 +1,8 @@
+.DS_Store
+/node_modules
+/dist
+.env
+/npm-debug.logs
+yarn.lock
+.vscode/
+run.sh

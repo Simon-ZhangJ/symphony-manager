@@ -1,0 +1,18 @@
+{
+  "user":[
+    {
+      "id": 10000,
+      "name": "simon",
+      "age": 40,
+      "gender": "male"
+    }
+  ],
+  "book": [
+    {
+      "id": 100,
+      "name": "javascript master",
+      "price": 99.9,
+      "owner_id": 10000
+    }
+  ]
+}
